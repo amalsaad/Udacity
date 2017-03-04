@@ -1,0 +1,13 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+
+ 
+* What new skills have you learned?
+ 
+From the first leason I have learned new syntax in HTML, problem solving, using the correct syntax.  
+* What has been difficult?
+It was the first leason so it wasn't that difficult, but using correct syntax it was confusing. 
+
+ * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+
+I faced some issues while using figure element in image where to use it and as probelm solving strategy I search it in google.
